@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
 - 🔭 I’m currently working on [YenHost](https://yenhost.com)  
-- 🔭 I just finished working on [YenHost](https://wealthme.site)  
+- 🔭 I just finished working on [WealthMe](https://wealthme.site)  
 - 👨‍💻 All of my projects are available at [jpynzon.xyz](https://jpynzon.xyz)  
 - 📫 Reach me at **joshuapauloynzon@gmail.com**  
 
